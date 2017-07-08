@@ -13,6 +13,7 @@
 		F6DADA411F119AB8000BFC51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6DADA401F119AB8000BFC51 /* Assets.xcassets */; };
 		F6DADA441F119AB8000BFC51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6DADA421F119AB8000BFC51 /* LaunchScreen.storyboard */; };
 		F6DADA4F1F119AB8000BFC51 /* NewNotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DADA4E1F119AB8000BFC51 /* NewNotificationsTests.swift */; };
+		F6DADA5A1F119FF9000BFC51 /* rick_grimes.gif in Resources */ = {isa = PBXBuildFile; fileRef = F6DADA591F119FF9000BFC51 /* rick_grimes.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F6DADA4A1F119AB8000BFC51 /* NewNotificationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewNotificationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6DADA4E1F119AB8000BFC51 /* NewNotificationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewNotificationsTests.swift; sourceTree = "<group>"; };
 		F6DADA501F119AB8000BFC51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6DADA591F119FF9000BFC51 /* rick_grimes.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rick_grimes.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				F6DADA3D1F119AB8000BFC51 /* Main.storyboard */,
 				F6DADA401F119AB8000BFC51 /* Assets.xcassets */,
 				F6DADA421F119AB8000BFC51 /* LaunchScreen.storyboard */,
+				F6DADA591F119FF9000BFC51 /* rick_grimes.gif */,
 				F6DADA451F119AB8000BFC51 /* Info.plist */,
 			);
 			path = NewNotifications;
@@ -183,6 +186,7 @@
 			files = (
 				F6DADA441F119AB8000BFC51 /* LaunchScreen.storyboard in Resources */,
 				F6DADA411F119AB8000BFC51 /* Assets.xcassets in Resources */,
+				F6DADA5A1F119FF9000BFC51 /* rick_grimes.gif in Resources */,
 				F6DADA3F1F119AB8000BFC51 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
